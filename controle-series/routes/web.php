@@ -1,6 +1,6 @@
 <?php
 
-use App\http\Controllers\EpisodesController;
+use App\Http\Controllers\EpisodesController;
 use App\Http\Controllers\LoginController;
 use App\Http\Controllers\SeasonsController;
 use App\Http\Controllers\SeriesController;
