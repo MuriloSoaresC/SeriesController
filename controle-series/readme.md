@@ -1,0 +1,2 @@
+Projeto de controlador de séries no qual vocvê pode adicionar séries, temporadas, episódios, marcar episódios como assistidos, usando laravel e suas funcionalidades.
+Projeto feito em aula com auxílio do professor nos cursos den Laravel da Alura.
