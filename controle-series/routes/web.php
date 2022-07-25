@@ -6,6 +6,7 @@ use App\Http\Controllers\SeasonsController;
 use App\Http\Controllers\SeriesController;
 use App\Http\Controllers\UsersController;
 use App\Http\Middleware\Autenticador;
+use App\Models\Series;
 use Illuminate\Support\Facades\Route;
 
 /*
